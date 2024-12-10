@@ -16,3 +16,4 @@ I am used to a student in Graphic design major and I just make a very important 
 
     Lab 6 was a challenging yet transformative experience. It introduced me to using std::vector and std::string, which felt like a major shift in my understanding of programming. Although I struggled with parts of this lab, I decided to invest in a Coursera course to improve my skills. This lab also motivated me to explore platforms like CodeLeet and HackerRank, where I practiced coding in multiple languages. What I appreciated most about this lab was its complexity, which pushed me to grow as a programmer. The main learning objective I achieved was understanding how to work with dynamic data structures, which has inspired me to learn Python in addition to C++.
 
+![Picture of myself] (images/portfolio.JPG)
