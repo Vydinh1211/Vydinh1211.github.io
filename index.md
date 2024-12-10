@@ -13,5 +13,6 @@ I am used to a student in Graphic design major and I just make a very important 
     The second lab was another favorite of mine because it built on the skills I learned in the first lab. This lab focused on practicing functions to print outputs, and it made me feel confident, almost like a professional, when I could successfully code something that displayed my personal information. What I enjoyed most about this lab was seeing how structured coding can produce dynamic results. The learning objective I realized here was understanding how to write and use functions effectively to produce desired outputs, which deepened my confidence in programming.
 
 * Lab 6
+
     Lab 6 was a challenging yet transformative experience. It introduced me to using std::vector and std::string, which felt like a major shift in my understanding of programming. Although I struggled with parts of this lab, I decided to invest in a Coursera course to improve my skills. This lab also motivated me to explore platforms like CodeLeet and HackerRank, where I practiced coding in multiple languages. What I appreciated most about this lab was its complexity, which pushed me to grow as a programmer. The main learning objective I achieved was understanding how to work with dynamic data structures, which has inspired me to learn Python in addition to C++.
 
