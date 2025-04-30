@@ -1,7 +1,7 @@
 
 # Giavy Dinh's portforlio
 
-I am used to a student in Graphic design major and I just make a very important decision that I will start again with computer science major, I am very very very new to this major and have zero experience about this major until I study and making this portfolio for very first time. 
+I am used to a student in Graphic design major and I just make a very important decision that I will start again with computer science major, I am very very very new to this major and have zero experience about this major until I study and making this portfolio for very first time. Very proud of my self !!! 
 
 # Favorite Lab in CPSC 120L 
 * Lab 1
